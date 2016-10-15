@@ -70,29 +70,48 @@
         <span class="image fit main"><img src="images/photoshop/who-was-hussain-suckling-infant-aliasghar.jpg" alt="" /></span>
         <div class="content">
             <div class="container">
-                <div class="row">
-                    <div class="4u 12u$(medium)">
-                        <p>
-                            ipsum dolor nullam.</p>
-                    </div>
-                    <div class="4u 12u$(medium)">
-                        <p>
-                            باز این چه شورش است که در خلق عالم است باز این چه نوحه و چه عزا و چه ماتم است
-                        </p>
-                    </div>
-                    <div class="4u$ 12u$(medium)">
+                <div class="row col-lg-12">
+                    <div class="4u 12u$(medium)" style="margin-left:2%;text-align: justify; text-justify: inter-word; width: 30%;">
                         <header>
                             <h2>
-لا یَومْ کَیَوْمَکَ یا
-          <span style="color: #cc2233">
+                                لا یَوم کَیَومَکَ یا
+                                <span style="color: #cc2233">
 
               اباعَبْدِاللّه
               </span>
                             </h2>
                             <p>
-                                مردی از تبار خوبان،
+                                تمام یاران و خاندانش به خاک افتاده بودند. آن‌‌هنگام که فریاد برآورد:‌ «آیا کسی نیست که از حرم رسول خدا(ص) دفاع کند؟ آیا خداپرستی نیست که به خاطر ما از خدا بترسد؟
+                                آیا فریادرسی نیست که به امید پاداش الهی به
                             </p>
                         </header>
+                    </div>
+                    <div class="4u 12u$(medium)" style="margin-left:2%;text-align: justify; text-justify: inter-word; width: 30%;">
+                        <p>
+
+                              فریادمان برسد؟ آیا یاری‌گری نیست که به امید آن‌چه نزد خداست ما را یاری کند؟»
+                            <br/>
+                            با شنیدن این صدا، خواهرش آن کودک را از خیمه‌ها بیرون آورده و گفت:‌ «برادرم، سه روز است که این فرزندت طعم آب را نچشیده، جرعه‌ای آب برای او بطلب». کودک را در آغوش گرفت. رو به میدان کرد و فرمود:‌ «ای مردم، یاران و اهل بیت مرا کشتید و این کودک را چنان گذاشتید که لبانش از تشنگی هم‌چون
+                            <span style="color: #cc2233">
+                                ماهی بیرون آب
+                            </span>
+                            به لرزش افتاده.
+                        </p>
+                    </div>
+                    <div class="4u 12u$(medium)" style="margin-left:2%; margin-right:0%;text-align: justify; text-justify: inter-word; width: 30%;">
+                        <p>
+                            جرعه‌ای آب به او بدهید.»
+                            <br/>
+                            در میانه میدان، حرمله بن کامل اسدی، تیری سه‌شعبه به سمت او پرتاب کرد. تیر از گوش تا گوش کودک را برید. خون‌های گلوی کودکش را جمع کرد و وقتی دستش پر از خون می‌شد، آن را به سوی آسمان می‌پاشید و می‌فرمود:‌«این مصیبت‌ها که بر من وارد می‌شود برایم آسان است زیرا که خداوند شاهد آن است».
+
+                            <br/>
+                            <a href="#" class="align-left" style="float: left; text-decoration: none;">
+                                <em>
+                                    حوادث روز عاشورا
+                                </em>
+                            </a>
+
+                        </p>
                     </div>
                 </div>
             </div>

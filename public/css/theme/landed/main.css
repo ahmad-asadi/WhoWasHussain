@@ -987,7 +987,7 @@
 		}
 
 		.\31 2u\28medium\29, .\31 2u\24\28medium\29 {
-			width: 100%;
+			min-width: 100%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -3354,9 +3354,9 @@
 
 		#banner:after {
 			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.8), rgba(23, 24, 32, 0.95)), url("images/Karbala/who-was-hussain-karbala-ashoura-imam-hussain.jpg");;
-			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.9), rgba(23, 24, 32, 0.9)), url("images/Karbala/who-was-hussain-bg.jpg");;
-			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.9), rgba(23, 24, 32, 0.9)), url("images/Karbala/who-was-hussain-bg.jpg");;
-			background-image: linear-gradient(top, rgba(23, 24, 32, 0.9), rgba(23, 24, 32, 0.9)), url("images/Karbala/who-was-hussain-bg.jpg");;
+			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.9), rgba(23, 24, 32, 0.9)), url("images/Karbala/who-was-hussain-karbala-ashoura-imam-hussain.jpg");;
+			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.9), rgba(23, 24, 32, 0.9)), url("images/Karbala/who-was-hussain-karbala-ashoura-imam-hussain.jpg");;
+			background-image: linear-gradient(top, rgba(23, 24, 32, 0.9), rgba(23, 24, 32, 0.9)), url("images/Karbala/who-was-hussain-karbala-ashoura-imam-hussain.jpg");;
 			background-repeat: no-repeat;
 			content: '';
 			display: block;
